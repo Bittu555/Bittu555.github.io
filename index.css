@@ -22,6 +22,12 @@ text-decoration:none;
 text-align:center;
 padding:120px 20px;
 }
+.hero img{
+width:200px;
+border-radius:50%;
+margin-bottom:20px;
+}
+
 
 .btn{
 background:#3b82f6;
