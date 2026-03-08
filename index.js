@@ -1,8 +1,9 @@
 var typed = new Typed(".typing",{
 
 strings:[
-"Senior Java Backend Engineer",
-"Microservices Developer",
+"Java Backend Engineer",
+"Microservices Architect",
+"Kafka Event Streaming Developer",
 "Cloud & Distributed Systems Engineer"
 ],
 
